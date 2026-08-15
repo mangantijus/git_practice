@@ -1,0 +1,1 @@
+print ("Oh tingin ah Tingin! PERD TINGIN AH! OH ETO KANYA KANYA NA ")
